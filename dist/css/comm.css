@@ -719,7 +719,7 @@ body {
   left: 0;
 }
 .port-texts .text-info .page-info p {
-  width: 90%;
+  /*width: 90%;*/
   opacity: 0.5;
 }
 
